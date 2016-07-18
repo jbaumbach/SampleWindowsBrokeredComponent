@@ -15,7 +15,7 @@ namespace SampleBrokeredThingy
         {
             this.InitializeComponent();
 
-            Debug.WriteLine("yeah bro, launched and junk");
+            Debug.WriteLine("App launched!");
 
             Sample b = new Sample();
             Debug.WriteLine(b.Yo());
