@@ -52,7 +52,7 @@
     <InProcessServer>
       <Path>clrhost.dll</Path>
       <ActivatableClass ActivatableClassId="BrokeredComponent.Sample" ThreadingModel="MTA">
-        <ActivatableClassAttribute Name="DesktopApplicationPath" Type="string" Value="C:\Users\john.baumbach\Documents\Visual Studio 2015\Projects\SampleBrokeredThingy\BrokeredProxyStub\BrokeredComponent.winmd" />
+        <ActivatableClassAttribute Name="DesktopApplicationPath" Type="string" Value="BrokeredProxyStub\BrokeredComponent.winmd" />
       </ActivatableClass>
     </InProcessServer>
     </Extension>
